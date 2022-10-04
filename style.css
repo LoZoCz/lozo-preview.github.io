@@ -24,6 +24,7 @@ html, body
     width: 1250px;
     background-color: hsl(244, 38%, 16%);
     border-radius: 8px;
+    box-shadow: 0rem 0rem 0.5rem 0.5rem hsla(278, 40%, 13%, 0.5);
 }
 
 picture img
